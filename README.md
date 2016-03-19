@@ -6,7 +6,7 @@ Remote
 
 Patch
 ====
-* generate patch for each diff between <commit> and HEAD
+* generate patch for each diff between &lt;commit&gt; and HEAD
     
-    > git format-patch <commit> [-o directory]
+    > git format-patch &lt;commit&gt; [-o directory]
 
